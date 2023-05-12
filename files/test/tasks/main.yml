@@ -1,0 +1,4 @@
+---
+- name: create amirrrr.txt file in /home/ubuntu/
+  shell: touch /home/ubuntu/amirrrr.txt
+# tasks file for test

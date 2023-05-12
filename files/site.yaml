@@ -1,0 +1,5 @@
+- hosts: all
+  tasks:
+    - name: common tasks
+      include_role:
+        name: test 
